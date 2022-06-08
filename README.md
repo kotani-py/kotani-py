@@ -14,10 +14,6 @@ NUCOの仮想オフィス。
 
 [![Mail address](https://img.shields.io/badge/Mail%20to-gentle.moon8300%40fastmail.com-blue)](mailto:gentle.moon8300@fastmail.com)
 
-### タスクリスト
-
-- [ ] 習慣付けBot作成
-
 
 <!--
 **kotani-py/kotani-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
