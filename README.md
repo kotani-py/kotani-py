@@ -10,10 +10,11 @@ NUCOの仮想オフィス。
 
 ### 連絡先
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Tweet%20to%20%40cuYkqv&style=social&url=https%3A%2F%2Fgithub.com%2Fsitting-cat)](https://twitter.com/intent/tweet?screen_name=cuYkqv)
+[![Bluesky URL](https://img.shields.io/badge/%40koaku.ma-lightblue?logo=bluesky&label=Bluesky&labelColor=black&color=0886fe)](https://bsky.app/profile/koaku.ma)
 
 [![Mail address](https://img.shields.io/badge/Mail%20to-gentle.moon8300%40fastmail.com-blue)](mailto:gentle.moon8300@fastmail.com)
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=Tweet%20to%20%40cuYkqv&style=social&url=https%3A%2F%2Ftwitter.com%2FcuYkqv)](https://twitter.com/intent/tweet?screen_name=cuYkqv)
 
 <!--
 **kotani-py/kotani-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
